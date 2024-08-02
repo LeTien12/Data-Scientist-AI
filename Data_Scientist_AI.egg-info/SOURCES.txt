@@ -1,0 +1,7 @@
+README.md
+setup.py
+Data_Scientist_AI.egg-info/PKG-INFO
+Data_Scientist_AI.egg-info/SOURCES.txt
+Data_Scientist_AI.egg-info/dependency_links.txt
+Data_Scientist_AI.egg-info/requires.txt
+Data_Scientist_AI.egg-info/top_level.txt

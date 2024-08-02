@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Data-Scientist-AI
+Version: 0.0.1
+Author: TienLe
+Author-email: tle38413@gmail.com
+Requires-Dist: streamlit
+Requires-Dist: pyautogen[gemini]
